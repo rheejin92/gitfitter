@@ -11,7 +11,7 @@ Abstract : this project to practice git
 - Command mode : press ':' on Normal mode
 
 ## Installation
-'''python
+'''python, HTML
 '''
 
 ## How to start
